@@ -59,16 +59,14 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
+   -The project is a web resume page built with HTML/CSS.
 - Whats the purpose
-- What are key components
-- What technology used and how it is used
+   -The aim of this project is to develop a résumé for browsing the web.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Single Page Website
 
 ### Technology
 <!-- TODO: List of Technology Used -->
